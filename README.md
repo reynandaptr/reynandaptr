@@ -1,5 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=angellee177&style=for-the-badge"><img alt="view_count" src="https://komarev.com/ghpvc/?username=reynandaptr&style=for-the-badge"/></a>
-
 [![reynandaptr's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynandaptr&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&card_width=500)](https://github.com/reynandaptr)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynandaptr&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/reynandaptr)
