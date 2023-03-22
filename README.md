@@ -3,3 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynandaptr&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/reynandaptr)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reynandaptr&repo=vscode-ext-geojson-preview&theme=dark)](https://github.com/reynandaptr/vscode-ext-geojson-preview)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reynandaptr&repo=vscode-ext-geojson-preview&theme=dark)](https://github.com/reynandaptr/vscode-ext-geojson-preview)
