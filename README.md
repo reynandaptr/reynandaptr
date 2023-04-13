@@ -1,3 +1,7 @@
+<div align="center">
+	<img src="https://github.com/reynandaptr/reynandaptr/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
 <h3 align="left">Stats:</h3>
 
 [![reynandaptr's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynandaptr&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&card_width=500)](https://github.com/reynandaptr)
