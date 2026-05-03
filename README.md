@@ -54,14 +54,6 @@ Software engineer based in Batam, Indonesia, with **7 years of professional expe
 
 ---
 
-<div align="center">
-
-[![reynandaptr's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynandaptr&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&card_width=500)](https://github.com/reynandaptr)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynandaptr&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/reynandaptr)
-
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reynandaptr/reynandaptr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reynandaptr/reynandaptr/output/github-contribution-grid-snake.svg" />
