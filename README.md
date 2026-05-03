@@ -51,7 +51,6 @@ Software engineer based in Batam, Indonesia, with **7 years of professional expe
 
 - 📅 [Book a 60-min call](https://cal.com/reynandaptr/60min) — free, no commitment
 - 💼 [LinkedIn](https://www.linkedin.com/in/reynandaptr)
-- 📧 reynandapp1997@gmail.com
 
 ---
 
